@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\obj\Debug\listVmvc.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\obj\Debug\listVmvc.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\obj\Debug\listVmvc.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\bin\Debug\listVmvc.exe.config
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\bin\Debug\listVmvc.exe
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\bin\Debug\listVmvc.pdb
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\obj\Debug\listVmvc.exe
+C:\Users\STUDENTS-1212-5\Desktop\11a 3\listVmvc\listVmvc\obj\Debug\listVmvc.pdb

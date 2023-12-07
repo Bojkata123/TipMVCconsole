@@ -1,0 +1,17 @@
+﻿using listVmvc.Controllers;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace listVmvc
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            PrimeNumbersController primeNumbersController = new PrimeNumbersController();
+        }
+    }
+}
